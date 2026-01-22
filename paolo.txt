@@ -1,2 +1,8 @@
 Hi! I am Paolo :)
+<<<<<<< HEAD
 I like tadpoles.
+=======
+
+
+I don't like frogs.
+>>>>>>> conflict-branch
